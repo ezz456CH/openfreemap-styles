@@ -7,7 +7,7 @@ import { loadStyle } from './style.js'
 let left
 let right
 
-left = await loadStyle('/styles/fiord/style.json')
+left = await loadStyle('/styles/bright/style.json')
 
 // right = await loadStyle('/styles/positron/style.json')
 right = await loadStyle('/styles/dark/style.json')
